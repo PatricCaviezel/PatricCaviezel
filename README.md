@@ -1,23 +1,3 @@
-<h3 align="center">
-  Welcome to ZEROKAMIX profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
-<div align="center">
-  
-# 🐼About Me :
-  
-🧪 Founder of OverVerse Labs 🧪
-  
-🌱 I’m currently learning : Solidity 🌱
-  
-👑 Blockchain, Fullstack Developer 👑
-  
-💸 Crypto & NFT Trading
-https://opensea.io/zerokamix 💸
-
-# 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
-  
   ![Solidity](https://img.shields.io/badge/Solidity-%23000000.svg?style=for-the-badge&logo=Solidity&logoColor=white)
   ![Ganache](https://img.shields.io/badge/Ganache-%23000000.svg?style=for-the-badge&logo=Ganache&logoColor=white)
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
